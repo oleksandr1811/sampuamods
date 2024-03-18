@@ -1,0 +1,304 @@
+Uri: http://sampmods.tilda.ws/
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\index.htm
+Content Type: text/html
+
+Uri: http://sampmods.tilda.ws/classiczbirka
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\classiczbirka.html
+Content Type: text/html
+
+Uri: http://sampmods.tilda.ws/greyzbirka
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\greyzbirka.html
+Content Type: text/html
+
+Uri: http://sampmods.tilda.ws/osnova
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\osnova.html
+Content Type: text/html
+
+Uri: http://sampmods.tilda.ws/tilda-blocks-page43998447.min.css?t=1708702501
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tilda-blocks-page43998447.min.css
+Content Type: text/css
+
+Uri: http://sampmods.tilda.ws/tilda-blocks-page43998447.min.js?t=1708702501
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tilda-blocks-page43998447.min.js
+Content Type: application/javascript
+
+Uri: http://sampmods.tilda.ws/tilda-blocks-page43999059.min.css?t=1708547041
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tilda-blocks-page43999059.min.css
+Content Type: text/css
+
+Uri: http://sampmods.tilda.ws/tilda-blocks-page43999059.min.js?t=1708547041
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tilda-blocks-page43999059.min.js
+Content Type: application/javascript
+
+Uri: http://sampmods.tilda.ws/tilda-blocks-page44025413.min.css?t=1708546221
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tilda-blocks-page44025413.min.css
+Content Type: text/css
+
+Uri: http://sampmods.tilda.ws/tilda-blocks-page44025413.min.js?t=1708546221
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tilda-blocks-page44025413.min.js
+Content Type: application/javascript
+
+Uri: http://sampmods.tilda.ws/tilda-blocks-page44150025.min.css?t=1708546221
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tilda-blocks-page44150025.min.css
+Content Type: text/css
+
+Uri: http://sampmods.tilda.ws/tilda-blocks-page44150025.min.js?t=1708546221
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tilda-blocks-page44150025.min.js
+Content Type: application/javascript
+
+Uri: http://sampmods.tilda.ws/tilda-blocks-page44269885.min.css?t=1708702807
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tilda-blocks-page44269885.min.css
+Content Type: text/css
+
+Uri: http://sampmods.tilda.ws/tilda-blocks-page44269885.min.js?t=1708702807
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tilda-blocks-page44269885.min.js
+Content Type: application/javascript
+
+Uri: http://sampmods.tilda.ws/zbirkapurple
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\zbirkapurple.html
+Content Type: text/html
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Black.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot?
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Black-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Black.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff2
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Black.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Bold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot?
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Bold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff2
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Extrabold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot?
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Extrabold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Extrabold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff2
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Extrabold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Light.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot?
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Light-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Light.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff2
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Light.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Medium.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot?
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Medium-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff2
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Regular.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot?
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Regular-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff2
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Semibold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot?
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Semibold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Semibold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff2
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-Semibold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-VF.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff2
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\fonts\tildasans\TildaSans-VF.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.info/css/fonts-tildasans.css
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\css\fonts-tildasans.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/img/tildacopy.png
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\img\tildacopy.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-skiplink-1.0.min.js
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\js\tilda-skiplink-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/tild3239-6535-4338-b036-636365386233/-/empty/snapedit_17085142023.png
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tild3239-6535-4338-b036-636365386233\-\empty\snapedit_17085142023.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild3362-3535-4332-b563-343930656337/-/empty/snapedit_17085142023.png
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tild3362-3535-4332-b563-343930656337\-\empty\snapedit_17085142023.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild3464-3635-4732-b139-366532643331/Untitled82_202402211.png
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tild3464-3635-4732-b139-366532643331\Untitled82_202402211.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild3465-3630-4738-b265-616234633932/-/empty/snapedit_17085142023.png
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tild3465-3630-4738-b265-616234633932\-\empty\snapedit_17085142023.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild3561-6234-4236-b038-646533333462/-/empty/Untitled108_20240221.png
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tild3561-6234-4236-b038-646533333462\-\empty\Untitled108_20240221.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild3636-3634-4535-b361-383563643361/-/empty/sa-mp-003.png
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tild3636-3634-4535-b361-383563643361\-\empty\sa-mp-003.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild3664-3064-4266-b065-616237353164/-/empty/Untitled106_20240219.png
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tild3664-3064-4266-b065-616237353164\-\empty\Untitled106_20240219.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild3937-6537-4037-b565-653265306665/-/empty/Untitled105_20240218.png
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tild3937-6537-4037-b565-653265306665\-\empty\Untitled105_20240218.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild6133-6535-4063-a235-646265353737/-/empty/Screenshot_3.png
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tild6133-6535-4063-a235-646265353737\-\empty\Screenshot_3.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild6233-6333-4037-b237-303036633339/-/empty/sa-mp-002.png
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tild6233-6333-4037-b237-303036633339\-\empty\sa-mp-002.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild6333-3638-4334-b639-656236613062/-/empty/sa-mp-005.png
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tild6333-3638-4334-b639-656236613062\-\empty\sa-mp-005.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild6363-6266-4162-a162-343837316466/-/empty/Screenshot_2.png
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tild6363-6266-4162-a162-343837316466\-\empty\Screenshot_2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild6366-3639-4137-b933-313530323963/-/empty/sa-mp-004.png
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tild6366-3639-4137-b933-313530323963\-\empty\sa-mp-004.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild6531-3664-4464-a439-336165343736/-/empty/Untitled113_20240223.png
+File Name: C:\Downloaded Web Sites\sampmods.tilda.ws\tild6531-3664-4464-a439-336165343736\-\empty\Untitled113_20240223.png
+Content Type: image/png
+
